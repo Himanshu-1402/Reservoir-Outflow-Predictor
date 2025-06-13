@@ -14,7 +14,7 @@ It integrates both **analytical modeling** and a **Streamlit-based web app** to 
 
 |[Dashboard](/Screenshot%202025-06-13%20093748.png)
 |[Dashboard-Result](/Screenshot%202025-06-13%20091704.png)
-|[Dashboard-Graph](/Screenshot%202025-06-13%20091736.png)
+|[Dashboard-Graph](/Screenshot%202025-06-13%20091736.png) |
 ---
 
 ## 🔍 Key Features
