@@ -11,10 +11,10 @@
 
 This project uses **machine learning** to predict **daily reservoir outflow** based on hydrological parameters such as inflow, evaporation, reservoir level, and storage.  
 It integrates both **analytical modeling** and a **Streamlit-based web app** to visualize and interact with predictions in real time.
++ ![Dashboard](Screenshot%202025-06-13%20093748.png)
++ ![Dashboard-Result](Screenshot%202025-06-13%20091704.png)
++ ![Dashboard-Graph](Screenshot%202025-06-13%20091736.png)
 
-|[Dashboard](/Screenshot%202025-06-13%20093748.png)
-|[Dashboard-Result](/Screenshot%202025-06-13%20091704.png)
-|[Dashboard-Graph](/Screenshot%202025-06-13%20091736.png) |
 ---
 
 ## 🔍 Key Features
